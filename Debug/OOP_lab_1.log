@@ -1,3 +1,5 @@
-﻿  OOP_lab_1.cpp
-C:\Users\vasul\OneDrive\Desktop\наука\OOП\Лр. 1\OOP_lab_1\OOP_lab_1.cpp(118): warning C4715: 'makeBill': not all control paths return a value
+﻿  Bill.cpp
+  OOP_lab_1.cpp
+  Generating Code...
+C:\Users\vasul\OneDrive\Desktop\наука\OOП\Лр. 1\OOP_lab_1\OOP_lab_1.cpp(16): warning C4715: 'makeBill': not all control paths return a value
   OOP_lab_1.vcxproj -> C:\Users\vasul\OneDrive\Desktop\наука\OOП\Лр. 1\OOP_lab_1\Debug\OOP_lab_1.exe

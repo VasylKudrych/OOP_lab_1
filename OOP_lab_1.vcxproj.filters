@@ -18,5 +18,13 @@
     <ClCompile Include="OOP_lab_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bill.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
